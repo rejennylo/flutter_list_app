@@ -1,16 +1,6 @@
 # flutter_list_app
+![ui_image.png](assets%2Fimages%2Fui_image.png)
+An input field and a button have been added that allow users to add new items to the text list. This update improves the user interface by enabling real-time list updates.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+Enter text and press the submit button to add it below.
